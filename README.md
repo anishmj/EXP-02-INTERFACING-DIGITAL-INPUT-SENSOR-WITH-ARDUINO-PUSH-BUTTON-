@@ -107,3 +107,6 @@ void loop()
 
 ![GitHub Logo](roboaft.png)
 
+## RESULT :
+Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
+
